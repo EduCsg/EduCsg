@@ -4,7 +4,7 @@
   <li>16 year old :man_technologist:</li>
   <li>I want to be a Web developer in the future. :desktop_computer:</li>
   <li>Open to new challenges :fire:</li>
-  <li>Junior Developer :computer_mouse:</li>
+  <li>Junior Developer 👨‍💻</li>
 </ul>
 
 <h1 align="center">At the moment, I'm studing 📚</h1>
