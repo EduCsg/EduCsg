@@ -1,7 +1,7 @@
 <h1 align="center"> About Me 🧐</h1>
 <ul>
   <li>I'm Brazilian :brazil:</li>
-  <li>16 year old :man_technologist:</li>
+  <li>16 years old :man_technologist:</li>
   <li>I want to be a Web developer in the future. :desktop_computer:</li>
   <li>Open to new challenges :fire:</li>
 <!--   <li>Newbie Developer :computer_mouse:</li> -->
