@@ -20,4 +20,4 @@
   </li>
 </ul>
 
-![Snake animation](https://github.com/educsg/educsg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/educsg/blob/output/github-contribution-grid-snake.svg)
