@@ -19,5 +19,3 @@
     JavaScript
   </li>
 </ul>
-
-![Snake animation](https://github.com/educsg/blob/output/github-contribution-grid-snake.svg)
