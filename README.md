@@ -1,21 +1,38 @@
-<h1 align="center"> About Me 🧐</h1>
-<ul>
-  <li>I'm Brazilian :brazil:</li>
-  <li>16 years old :man_technologist:</li>
-  <li>I want to be a Web developer in the future. :desktop_computer:</li>
-  <li>Open to new challenges :fire:</li>
-<!--   <li>Newbie Developer :computer_mouse:</li> -->
-</ul>
+# About Me 🧐
 
-<h1 align="center">At the moment, I'm studing 📚</h1>
-<ul>
-  <li>
-    HTML5
-  </li>
-  <li>
-    CSS3
-  </li>
-  <li>
-    JavaScript
-  </li>
-</ul>
+- I'm Brazilian :brazil:
+- 16 years old :man_technologist:
+- I want to be a Web developer in the future. :desktop_computer:
+- Open to new challenges :fire:
+
+# At the moment, I'm studing 📚
+<p align="center">
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</p>
+
+# Most Important Projects 📖
+
+[FiredLabs HTML and CSS](https://github.com/EduCsg/Curso-HTML-CSS-FiredLabs) - Done! ✔️
+Developed by: [@marcobrunodev](https://github.com/marcobrunodev) 
+
+[My portfolio](https://github.com/EduCsg/PortfolioEduCsg) - Under Development! 🚧
+Being Developed by: [@EduCsg](https://github.com/EduCsg)
+
+# Contacts 📱
+<p align="center">
+	<a href="mailto:eduardocasagrande71@gmail.com">
+		<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eduardocasagrande71@gmail.com">
+	</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/EduCsg">
+		<img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/EduCsg">
+	</a>
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/educasagrande/">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/educasagrande/">
+	</a>
+</p>
