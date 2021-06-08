@@ -5,6 +5,9 @@
 - I want to be a Web developer in the future. :desktop_computer:
 - Open to new challenges :fire:
 
+<br />
+<br />
+
 # At the moment, I'm studing 📚
 <p align="center">
 	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,13 +17,21 @@
 	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
 
+<br />
+<br />
+
 # Most Important Projects 📖
 
 [FiredLabs HTML and CSS](https://github.com/EduCsg/Curso-HTML-CSS-FiredLabs) - Done! ✔️
+<br />
 Developed by: [@marcobrunodev](https://github.com/marcobrunodev) 
 
 [My portfolio](https://github.com/EduCsg/PortfolioEduCsg) - Under Development! 🚧
+<br />
 Being Developed by: [@EduCsg](https://github.com/EduCsg)
+
+<br />
+<br />
 
 # Contacts 📱
 <p align="center">
