@@ -1,7 +1,7 @@
 # About Me 🧐
 
 - I'm Brazilian :brazil:
-- 16 years old :man_technologist:
+- 17 years old :man_technologist:
 - I want to be a Web developer in the future. :desktop_computer:
 - Open to new challenges :fire:
 
