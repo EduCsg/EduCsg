@@ -2,7 +2,7 @@
 
 - I'm Brazilian :brazil:
 - 17 years old :man_technologist:
-- I want to be a Web developer in the future. :desktop_computer:
+- I want to be a Web and Mobile developer in the future. :desktop_computer:
 - Open to new challenges :fire:
 
 <br />
@@ -15,6 +15,9 @@
 	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+	
 </p>
 
 <br />
@@ -26,7 +29,7 @@
 <br />
 Developed by: [@marcobrunodev](https://github.com/marcobrunodev) 
 
-[My portfolio](https://github.com/EduCsg/PortfolioEduCsg) - Under Development! 🚧
+[Fast Form](https://github.com/EduCsg/FastForm_Client) - Under Development! 🚧
 <br />
 Being Developed by: [@EduCsg](https://github.com/EduCsg)
 
@@ -42,7 +45,6 @@ Being Developed by: [@EduCsg](https://github.com/EduCsg)
 	<a href="https://github.com/EduCsg">
 		<img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/EduCsg">
 	</a>
-	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- 	<a href="https://www.linkedin.com/in/educasagrande/">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/educasagrande/">
 	</a> -->
