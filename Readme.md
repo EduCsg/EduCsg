@@ -49,6 +49,17 @@ Course Developed by Udemy - <a href="https://www.udemy.com/course/curso-flutter/
 <br />
 <br />
 
+# Stats 🔬
+
+<div align="center">
+  <a href="https://github.com/EduCsg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduCsg&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCsg&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+
+<br />
+<br />
+
 # Contacts 📱
 
 <p align="center">
