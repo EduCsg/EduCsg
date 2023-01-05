@@ -2,22 +2,29 @@
 
 - I'm Brazilian :brazil:
 - 18 years old :man_technologist:
-- I want to be a Web and Mobile developer in the future. :desktop_computer:
+- I want to be a Web Developer in the future. :desktop_computer:
 - Open to new challenges :fire:
 
-<br />
 <br />
 
 # At the moment, I'm studing 📚
 
 <p align="center">
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
 	
 </p>
 
@@ -32,19 +39,19 @@ Developed by: [@EduCsg](https://github.com/EduCsg)
 <br />
 Website: Click <a href="https://educsg.github.io/MyPortfolio/" target="_blank">here!</a>
 
-<a href="https://github.com/EduCsg/Curso-HTML-CSS-FiredLabs" target="_blank">FiredLabs Course HTML and CSS</a> - Done! ✔️
-<br />
-Course developed by: <a href="https://github.com/marcobrunodev">@marcobrunodev</a>
-
-<a href="https://github.com/EduCsg/FastForm_Client" target="_blank">Fast Form</a> - Done! ✔️ - Still Updating Improvements!
+<a href="https://github.com/EduCsg/FastForm" target="_blank">Fast Form</a> - Done! ✔️
 <br />
 Developed by: [@EduCsg](https://github.com/EduCsg)
 
-<a href="https://github.com/EduCsg/Curso_Flutter_Udemy" target="_blank">Flutter Course</a> - Under Studing! 🚧
+<a href="https://github.com/EduCsg/Curso-HTML-CSS-FiredLabs" target="_blank">FiredLabs Course HTML and CSS</a> - Done! ✔️
+<br />
+Course developed by: <a href="https://github.com/marcobrunodev">@marcobrunodev</a> - <a href="https://www.youtube.com/watch?v=CZPa3-1BKnY&list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa&ab_channel=MarcoBruno" target="_blank">Course Link</a>
+
+<a href="https://github.com/EduCsg/curso_react" target="_blank">React Course</a> - Under Studing! 🚧
 <br />
 Being Studied by: [@EduCsg](https://github.com/EduCsg)
 <br />
-Course Developed by Udemy - <a href="https://www.udemy.com/course/curso-flutter/" target="_blank">Course Link</a>
+Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/" target="_blank">Course Link</a>
 
 <br />
 <br />
