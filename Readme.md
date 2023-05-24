@@ -94,6 +94,8 @@ Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <
 
 </details>
 	
+</br>
+	
 <h1>Contacts 📱</h1>
 
 <p align="center">
