@@ -4,12 +4,12 @@
 
 - I'm Brazilian :brazil:
 - 18 years old :man_technologist:
-- I want to be a Web Developer in the future. :desktop_computer:
+- Studying to be a Computer Scientist :desktop_computer:
+- Focused on Web Development :globe_with_meridians:
 - Open to new challenges :fire:
 
 <br />
-
-# At the moment, I'm studing 📚
+<h1>At the moment, I'm studing 📚</h1>
 
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
@@ -30,16 +30,11 @@
 	
 </p>
 
-<br />
-<br />
-
 <details>
 	<summary>
 		<h1>Most Important Projects 📖</h1>
 	</summary>
 	
-<br/>
-
 <a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio</a> - Under Development! 🚧
 <br />
 Developed by: [@EduCsg](https://github.com/EduCsg)
@@ -68,10 +63,6 @@ Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <
 	
 </details>
 
-
-<br />
-<br />
-
 <details>
 	<summary>
 		<h1>Github Stats 🔬</h1>
@@ -88,9 +79,6 @@ Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <
 
 </details>
 
-<br />
-<br />
-
 <details>
 	<summary>
 		<h1>Language Stats 👇</h1>
@@ -105,11 +93,8 @@ Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <
 </div>
 
 </details>
-
-<br />
-<br />
 	
-# Contacts 📱
+<h1>Contacts 📱</h1>
 
 <p align="center">
 	<a href="mailto:eduardocasagrande71@gmail.com">
