@@ -33,7 +33,12 @@
 <br />
 <br />
 
-# Most Important Projects 📖
+<details>
+	<summary>
+		<h1>Most Important Projects 📖</h1>
+	</summary>
+	
+<br/>
 
 <a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio</a> - Under Development! 🚧
 <br />
@@ -49,26 +54,61 @@ Developed by: [@EduCsg](https://github.com/EduCsg)
 <br />
 Course developed by: <a href="https://github.com/marcobrunodev">@marcobrunodev</a> - <a href="https://www.youtube.com/watch?v=CZPa3-1BKnY&list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa&ab_channel=MarcoBruno" target="_blank">Course Link</a>
 
-<a href="https://github.com/EduCsg/curso_react" target="_blank">React Course</a> - Under Studing! 🚧
+<a href="https://github.com/EduCsg/curso_react" target="_blank">React Course</a> - Done! ✔️
 <br />
 Being Studied by: [@EduCsg](https://github.com/EduCsg)
 <br />
 Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/" target="_blank">Course Link</a>
 
+<a href="https://github.com/EduCsg/POO-com-JS" target="_blank">OOP with JS + TS</a> - Under Studing! 🚧
+<br />
+Being Studied by: [@EduCsg](https://github.com/EduCsg)
+<br />
+Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/" target="_blank">Course Link</a>
+	
+</details>
+
+
 <br />
 <br />
 
-# Stats 🔬
+<details>
+	<summary>
+		<h1>Github Stats 🔬</h1>
+	</summary>
+	
+<br/>
 
 <div align="center">
-  <a href="https://github.com/EduCsg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduCsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCsg&layout=compact&langs_count=7&theme=dracula"/>
+  	<a href="https://github.com/EduCsg">
+	  	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduCsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCsg&layout=compact&langs_count=7&theme=dracula"/>
+	</a>
 </div>
 
+</details>
+
 <br />
 <br />
 
+<details>
+	<summary>
+		<h1>Language Stats 👇</h1>
+	</summary>
+
+<br/>
+	
+<div align="center">
+  	<a href="https://github.com/EduCsg">
+		<img height="450em" src="https://wakatime.com/share/@EduCsg/9e25322a-29c7-4d8f-98b8-9cb99221be20.svg"></img>
+	</a>
+</div>
+
+</details>
+
+<br />
+<br />
+	
 # Contacts 📱
 
 <p align="center">
