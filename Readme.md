@@ -24,9 +24,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 	
 </p>
 
@@ -51,15 +49,15 @@ Course developed by: <a href="https://github.com/marcobrunodev">@marcobrunodev</
 
 <a href="https://github.com/EduCsg/curso_react" target="_blank">React Course</a> - Done! ✔️
 <br />
-Being Studied by: [@EduCsg](https://github.com/EduCsg)
-<br />
 Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/" target="_blank">Course Link</a>
 
-<a href="https://github.com/EduCsg/POO-com-JS" target="_blank">OOP with JS + TS</a> - Under Studing! 🚧
-<br />
-Being Studied by: [@EduCsg](https://github.com/EduCsg)
+<a href="https://github.com/EduCsg/POO-com-JS" target="_blank">OOP with JS + TS</a> - Done! ✔️
 <br />
 Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/" target="_blank">Course Link</a>
+	
+<a href="https://github.com/EduCsg/Curso_Typescript" target="_blank">TS - Basic to Advanced (React & Express)</a> - In Study! 📖
+<br />
+Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/" target="_blank">Course Link</a>
 	
 </details>
 
@@ -79,23 +77,8 @@ Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <
 
 </details>
 
-<details>
-	<summary>
-		<h1>Language Stats 👇</h1>
-	</summary>
-
 <br/>
-	
-<div align="center">
-  	<a href="https://github.com/EduCsg">
-		<img height="450em" src="https://wakatime.com/share/@EduCsg/9e25322a-29c7-4d8f-98b8-9cb99221be20.svg"></img>
-	</a>
-</div>
-
-</details>
-	
-</br>
-	
+		
 <h1>Contacts 📱</h1>
 
 <p align="center">
