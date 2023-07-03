@@ -4,7 +4,7 @@
 
 - I'm Brazilian :brazil:
 - 18 years old :man_technologist:
-- Studying to be a Computer Scientist :desktop_computer:
+- Studying to be a Computer Scientist! :desktop_computer:
 - Focused on Web Development :globe_with_meridians:
 - Open to new challenges :fire:
 
@@ -12,12 +12,6 @@
 <h1>At the moment, I'm studing 📚</h1>
 
 <p align="center">
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
@@ -25,7 +19,10 @@
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-	
+ 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 </p>
 
 <details>
@@ -33,11 +30,17 @@
 		<h1>Most Important Projects 📖</h1>
 	</summary>
 	
-<a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio</a> - Under Development! 🚧
+<a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio V1.0</a> - Done! ✔️
 <br />
 Developed by: [@EduCsg](https://github.com/EduCsg)
 <br />
-Website: Click <a href="https://educsg.github.io/MyPortfolio/" target="_blank">here!</a>
+Website: <a href="https://educsg.github.io/MyPortfolio/" target="_blank">Click here!</a>
+
+<a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio V2.0</a> - In planning... 💭
+<!-- <br />
+Developed by: [@EduCsg](https://github.com/EduCsg)
+<br />
+Website: Click <a href="https://educsg.github.io/MyPortfolio/" target="_blank">here!</a> -->
 
 <a href="https://github.com/EduCsg/FastForm" target="_blank">Fast Form</a> - Done! ✔️
 <br />
@@ -55,7 +58,7 @@ Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <
 <br />
 Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/" target="_blank">Course Link</a>
 	
-<a href="https://github.com/EduCsg/Curso_Typescript" target="_blank">TS - Basic to Advanced (React & Express)</a> - In Study! 📖
+<a href="https://github.com/EduCsg/Curso_Typescript" target="_blank">TS - Basic to Advanced (React & Express)</a> - Done! ✔️
 <br />
 Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/" target="_blank">Course Link</a>
 	
