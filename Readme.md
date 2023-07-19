@@ -3,7 +3,7 @@
 # About Me 🧐
 
 - I'm Brazilian :brazil:
-- 18 years old :man_technologist:
+- 19 years old :man_technologist:
 - Studying to be a Computer Scientist! :desktop_computer:
 - Focused on Web Development :globe_with_meridians:
 - Open to new challenges :fire:
