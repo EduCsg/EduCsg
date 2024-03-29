@@ -5,20 +5,37 @@
 - I'm Brazilian :brazil:
 - 19 years old :man_technologist:
 - Studying to be a Computer Scientist! :desktop_computer:
-- Focused on Web Development :globe_with_meridians:
+- Focused on FullStack Web Development :globe_with_meridians:
 - Open to new challenges :fire:
 
 <br />
-<h1>At the moment, I'm studing 📚</h1>
+<h1>I am currently using and studying 📚</h1>
 
 <p align="center">
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</p>
+
+<br />
+<h1>Next Steps to Learn and Improve! 🎓</h1>
+
+<p align="center">
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+ 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </p>
 
 <details>
