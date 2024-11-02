@@ -3,7 +3,7 @@
 # About Me 🧐
 
 - I'm Brazilian :brazil:
-- 19 years old :man_technologist:
+- 20 years old :man_technologist:
 - Studying to be a Computer Scientist! :desktop_computer:
 - Focused on FullStack Web Development :globe_with_meridians:
 - Open to new challenges :fire:
@@ -51,11 +51,11 @@ Developed by: [@EduCsg](https://github.com/EduCsg)
 <br />
 Website: <a href="https://educsg.github.io/MyPortfolio/" target="_blank">Click here!</a>
 
-<a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio V2.0</a> - In planning... 💭
-<!-- <br />
+<a href="https://github.com/EduCsg/MyPortfolio" target="_blank">My Portfólio V2.0</a> - Done! ✔️
+<br />
 Developed by: [@EduCsg](https://github.com/EduCsg)
 <br />
-Website: Click <a href="https://educsg.github.io/MyPortfolio/" target="_blank">here!</a> -->
+Website: <a href="https://educsg.vercel.app" target="_blank">Click here!</a>
 
 <a href="https://github.com/EduCsg/FastForm" target="_blank">Fast Form</a> - Done! ✔️
 <br />
@@ -65,18 +65,6 @@ Developed by: [@EduCsg](https://github.com/EduCsg)
 <br />
 Course developed by: <a href="https://github.com/marcobrunodev">@marcobrunodev</a> - <a href="https://www.youtube.com/watch?v=CZPa3-1BKnY&list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa&ab_channel=MarcoBruno" target="_blank">Course Link</a>
 
-<a href="https://github.com/EduCsg/curso_react" target="_blank">React Course</a> - Done! ✔️
-<br />
-Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/" target="_blank">Course Link</a>
-
-<a href="https://github.com/EduCsg/POO-com-JS" target="_blank">OOP with JS + TS</a> - Done! ✔️
-<br />
-Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/" target="_blank">Course Link</a>
-	
-<a href="https://github.com/EduCsg/Curso_Typescript" target="_blank">TS - Basic to Advanced (React & Express)</a> - Done! ✔️
-<br />
-Course Developed by: [@Matheus Battisti](https://github.com/matheusbattisti) - <a href="https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/" target="_blank">Course Link</a>
-	
 </details>
 
 <details>
